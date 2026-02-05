@@ -63,7 +63,7 @@ function App() {
     <div className='valentine-container items-center'>
       {showHey && 
       <div className='fade-in-out center-content zoom-in slidein'>
-        <div className='text text-shadow pb-2' style={{fontSize: 50}}><strong>Hey you</strong>...</div>
+        <div className='text text-shadow pb-2' style={{fontSize: 50}}><strong>Hey Tanvi</strong>...</div>
         <img alt='cat happy' style={{height:'200px'}} src='https://media.tenor.com/8tgG_KyJqqwAAAAi/happy-happy-happy-happy.gif'/>
       </div>
       }
@@ -84,7 +84,7 @@ function App() {
           { yesPressed ? (
             <div className='fade-in-out center-content zoom-in'>
             <img alt='love hug' style={{height:'250px'}} src='https://media.tenor.com/8DHkW1uWDHsAAAAj/milk-and-mocha.gif'/>
-            <div className='text' style={{fontSize: 40}}> <strong>YAYE!!!</strong> 🥰🤗💐😭😚💝</div>
+            <div className='text' style={{fontSize: 40}}> <strong>Yeah.. I Knew it you like me too !!!</strong> 🥰🤗💐😭😚💝</div>
             </div>
           ) : (
             <div className='center-content zoom-in'>
